@@ -129,5 +129,6 @@ body {
 }
 
 .attribution {
+    margin: auto;
     text-align: center;
 }
